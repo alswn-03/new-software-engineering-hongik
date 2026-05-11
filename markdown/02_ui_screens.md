@@ -45,21 +45,22 @@
 
 ## 팀원 3 담당 (UC07 · UC08 · UC09)
 
-### UC07
+### UC07 - 설문 검색
 
-<!-- 이미지 추가 -->
-
----
-
-### UC08
-
-<!-- 이미지 추가 -->
+![UC07](/asset/screens/UC07.png)
 
 ---
 
-### UC09
+### UC08 - 설문 상세 정보 조회
 
-<!-- 이미지 추가 -->
+![UC08](/asset/screens/UC08-1.png)
+![UC08](/asset/screens/UC08-2.png)
+
+---
+
+### UC09 - 설문 응답
+
+![UC09](/asset/screens/UC09.png)
 
 ---
 
