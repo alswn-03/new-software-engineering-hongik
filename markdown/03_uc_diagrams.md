@@ -6,9 +6,13 @@
 
 ### UC01 - UC03
 
+---
+
 ## 팀원 2 담당 (UC04 · UC05 · UC06)
 
 ### UC04 - UC06
+
+![UC04-06](/asset/diagram/UseCaseDiagrams(4-6).png)
 
 ---
 
