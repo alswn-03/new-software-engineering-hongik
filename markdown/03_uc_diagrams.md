@@ -19,6 +19,7 @@
 ## 팀원 3 담당 (UC07 · UC08 · UC09)
 
 ### UC07 - UC09
+![UC07-09](/asset/diagram/UseCaseDiagrams(7-9).png)
 
 ---
 
