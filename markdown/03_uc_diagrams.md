@@ -12,7 +12,7 @@
 
 ### UC04 - UC06
 
-![UC04-06](/asset/diagram/UseCaseDiagrams(4-6).pdf)
+![UC04-06](/asset/diagram/UseCaseDiagrams(4-6).png)
 
 ---
 
