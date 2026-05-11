@@ -6,7 +6,7 @@
 
 ### UC01
 
-<!-- 이미지 추가 -->
+![UC01](/asset/screens/UC01.png)
 
 ---
 
