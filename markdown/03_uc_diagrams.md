@@ -5,7 +5,7 @@
 ## 팀원 1 담당 (UC01 · UC02 · UC03)
 
 ### UC01 - UC03
-
+![UC01-03](/asset/diagram/UseCaseDiagrams(1-3).png)
 ---
 
 ## 팀원 2 담당 (UC04 · UC05 · UC06)
