@@ -25,3 +25,6 @@
 ## 팀원 4 담당 (UC10 · UC11 · UC12)
 
 ### UC10 - UC12
+
+![UC04-06](/asset/diagram/UseCaseDiagrams(10~12).png)
+

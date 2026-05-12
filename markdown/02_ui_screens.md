@@ -67,16 +67,16 @@
 
 ### UC10
 
-<!-- 이미지 추가 -->
+![UC10](/asset/screens/UC10.png)
 
 ---
 
 ### UC11
 
-<!-- 이미지 추가 -->
+![UC11](/asset/screens/UC11.png)
 
 ---
 
 ### UC12
 
-<!-- 이미지 추가 -->
+![UC12](/asset/screens/UC12.png)
