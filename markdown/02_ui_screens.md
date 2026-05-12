@@ -6,19 +6,19 @@
 
 ### UC01
 
-<!-- 이미지 추가 -->
+![UC01](/asset/screens/UC01.png)
 
 ---
 
 ### UC02
 
-<!-- 이미지 추가 -->
+![UC02](/asset/screens/UC02.png)
 
 ---
 
 ### UC03
 
-<!-- 이미지 추가 -->
+![UC03](/asset/screens/UC03.png)
 
 ---
 
