@@ -26,7 +26,8 @@
 
 ### UC04 - 로그아웃
 
-
+![UC04](/asset/screens/UC04-1.png)
+![UC04](/asset/screens/UC04-2.png)
 
 ---
 
