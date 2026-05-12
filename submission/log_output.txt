@@ -1,0 +1,51 @@
+GitHub URL: https://github.com/alswn-03/new-software-engineering-hongik.git
+
+
+[YESEONG LEE] Tue May 12 12:07:31 2026 +0900 Merge remote-tracking branch 'origin/minju' 51ba112
+[YESEONG LEE] Tue May 12 12:07:07 2026 +0900 Merge remote-tracking branch 'origin/yewon' cb633d0
+[YESEONG LEE] Tue May 12 12:06:24 2026 +0900 Merge branch 'yeseong' 16b53e5
+[YESEONG LEE] Tue May 12 12:06:21 2026 +0900 Merge branch 'lang' da62ccd
+[alswn-03] Tue May 12 04:58:18 2026 +0900 update: UC description(UC07-09) 표현 수정 8f99ce5
+[alswn-03] Tue May 12 04:52:56 2026 +0900 update: UC description(UC07-09) 16d1676
+[alswn-03] Tue May 12 04:28:11 2026 +0900 update: usecase diagram(07-09) 257d8da
+[alswn-03] Tue May 12 04:26:45 2026 +0900 update: UI View(UC07-09) 293e210
+[alswn-03] Tue May 12 04:23:41 2026 +0900 update: requirements list(07-09) 31b0c16
+[alswn-03] Tue May 12 04:18:00 2026 +0900 	update: UI View(UC07-09) bdea7ac
+[alswn-03] Tue May 12 04:17:31 2026 +0900 update: usecase diagram(07-09) 6dbd052
+[YESEONG LEE] Tue May 12 00:06:53 2026 +0900 update: requirements / UI Screen (UC04-06) 99fa14e
+[Yewon-Ko1] Mon May 11 23:50:20 2026 +0900 Update 04_uc_descriptions.md 58b14f0
+[Yewon-Ko1] Mon May 11 23:49:30 2026 +0900 Update 02_ui_screens.md 895230d
+[Yewon-Ko1] Mon May 11 23:46:11 2026 +0900 Add files via upload 612c937
+[Yewon-Ko1] Mon May 11 23:39:07 2026 +0900 Update 04_uc_descriptions.md 35e9251
+[Yewon-Ko1] Mon May 11 23:28:34 2026 +0900 Update 03_uc_diagrams.md 06de160
+[Yewon-Ko1] Mon May 11 23:27:42 2026 +0900 Update 02_ui_screens.md a6fdb5a
+[Yewon-Ko1] Mon May 11 23:27:15 2026 +0900 Update 02_ui_screens.md e03dd16
+[Yewon-Ko1] Mon May 11 23:16:08 2026 +0900 Update 01_requirements.md 8b593b2
+[Yewon-Ko1] Mon May 11 23:15:30 2026 +0900 Update 01_requirements.md 68b9076
+[Yewon-Ko1] Mon May 11 23:13:24 2026 +0900 Add files via upload 3f1635a
+[Yewon-Ko1] Mon May 11 23:06:26 2026 +0900 Add files via upload 13e687f
+[Kim Lang] Mon May 11 22:34:51 2026 +0900 update : ui화면에 맞게 수정 85461ed
+[Kim Lang] Mon May 11 22:32:00 2026 +0900 refactor : 표 형식 리팩토링 aaf100a
+[YESEONG LEE] Mon May 11 22:26:37 2026 +0900 update: UC description(UC04-06) 3966fac
+[Kim Lang] Mon May 11 22:25:03 2026 +0900 fix : 리포맷팅 80b53aa
+[Kim Lang] Mon May 11 22:24:08 2026 +0900 refactor : 문장 배치 수정 7e97158
+[Kim Lang] Mon May 11 22:22:58 2026 +0900 update : usecase description markdown 생성 2dc3d7d
+[Kim Lang] Mon May 11 22:15:06 2026 +0900 update : update ui_screen markdown 232306b
+[Kim Lang] Mon May 11 22:12:46 2026 +0900 Add files via upload 9ee8d45
+[Kim Lang] Mon May 11 22:11:34 2026 +0900 update : 누락된 글자 수정 cee663b
+[Kim Lang] Mon May 11 22:10:09 2026 +0900 update : 누락된 글자 수정 2d0c2d6
+[Kim Lang] Mon May 11 22:08:47 2026 +0900 update : update diagram markdown b7a2be2
+[Kim Lang] Mon May 11 22:07:16 2026 +0900 update : usecase diagram(10~12) a395d41
+[Kim Lang] Mon May 11 21:30:31 2026 +0900 update : Requirement List(10~12) 690dfe8
+[Kim Lang] Mon May 11 21:28:32 2026 +0900 update : requirement list (10~12) 6b5e373
+[YESEONG LEE] Mon May 11 19:17:14 2026 +0900 Merge pull request #1 from alswn-03/yeseong 42e204c
+[YESEONG LEE] Mon May 11 19:15:54 2026 +0900 update: UI View(UC04-06) 3276723
+[YESEONG LEE] Mon May 11 19:07:55 2026 +0900 update: requirements list(04-06) f8d5250
+[YESEONG LEE] Mon May 11 19:06:52 2026 +0900 update: usecase diagram(04-06) 64f9f95
+[YESEONG LEE] Mon May 11 19:03:03 2026 +0900 update: usecase diagram(04-06) dca0ddc
+[YESEONG LEE] Mon May 11 19:02:07 2026 +0900 update: usecase diagram(04-06) d831dfc
+[YESEONG LEE] Mon May 11 19:01:18 2026 +0900 update: usecase diagram(04-06) 5591405
+[YESEONG LEE] Mon May 11 18:55:29 2026 +0900 add: folder settings b426d18
+[YESEONG LEE] Mon May 11 18:18:45 2026 +0900 add: basic file setting 18bf5c9
+[MinJu Jang] Mon May 11 18:06:27 2026 +0900 Update README.md b4a8e0c
+[MinJu Jang] Mon May 11 18:06:01 2026 +0900 Initial commit 1d5152d
